@@ -106,9 +106,9 @@ using only viral sequences learned from the various dependencies of virus transm
 				    > "try to"
 				   I have also been part of a Teaching and Mentoring program for middle school and budding high school kids for the past 4 years. We have been working to increase Diversity and engagement of underepresented students in STEM fields. </p>
 				    <p> I have also worked with IIT Bombay! Click [here](./resume.pdf) to see my resume </p>
-				    <p> ```
+				    ```
 print("Hello World")
-```</p>
+```
 				    <p> My progress on Lab 1
 					    - [x] Part 1
 - [x ] Part 2
@@ -171,7 +171,10 @@ print("Hello World")
 cloud connected Medical Devices</li>
                                 <li> Created dynamic maps that responded to real-time user-generated data using the Google Geocoding and Maps APIs in Javascript.</li>    
                                 <li> Key member in the improvements in design feature
-					inputs in this project of cloud based medical devices. </li>
+					inputs in this project of cloud based medical devices. <br>
+						```
+print("Hello World")
+```</li>
                                             <hr color="black">
                                             <hr color="black">
                                             <hr color="black">
