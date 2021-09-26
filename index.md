@@ -19,7 +19,7 @@
                         <td>
                         </td>
                         <td>
-                            <font face="Comic sans MS" size="6">
+                            <font face="ourier New" size="6">
                                 <b>Lavanya Verma</b>
                             </font>
                         </td>
@@ -58,9 +58,6 @@
         cellpadding="20" cellspacing="0" bgcolor="#FFC0CB">
         <tr>
             <td>
-                <table border="0" cellpadding="15"
-                    cellspacing="0" width="90%" align="center">
-                    <tr>
                        
                             <h3>
                                 <font face="Times New Roman"
@@ -74,9 +71,7 @@
                                     To CSE 110
                                 </font>
                             </h2>
-                       
-                    </tr>
-                </table>
+                      
             </td>
         </tr>
     </table>
@@ -106,8 +101,19 @@
                             <font face="Verdana" size="4"
                                 color="black">
                                 <p>I'm a Computer Science, Mathematics and Machine learning enthusiast, working towards a BS in Computer Science at UC San Diego, with an expected graduation date of June 2023.</p>
-<p> I'm currently doing my research under Prof Niema Moshiri to build Scalable tools for studying viral evolution. Our research is geared upon inferring properties of a real epidemic
-using only viral sequences learned from the various dependencies of virus transmissions and the patient's genomic sequences.  </p> <p> In my free time, you can find me painting my heart out or hiking. I have also been part of a Teaching and Mentoring program for middle school and budding high school kids for the past 4 years. We have been working to increase Diversity and engagement of underepresented students in STEM fields. </p>
+<p> I'm currently doing my research under [Prof Niema Moshiri](https://niema.net/) to build Scalable tools for studying viral evolution. Our research is geared upon inferring properties of a real epidemic
+using only viral sequences learned from the various dependencies of virus transmissions and the patient's genomic sequences.  </p> <p> In my free time, you can find me painting my heart out or hiking.
+				    > "try to"
+				   I have also been part of a Teaching and Mentoring program for middle school and budding high school kids for the past 4 years. We have been working to increase Diversity and engagement of underepresented students in STEM fields. </p>
+				    <p> I have also worked with IIT Bombay! Click [here](./resume.pdf) to see my resume </p>
+				    <p> ```
+print("Hello World")
+```</p>
+				    <p> My progress on Lab 1
+					    - [x] Part 1
+- [x ] Part 2
+- [ ] Part 3
+				    </p>
                                 <br>
                                 <b>Nice to meet you!</b>
                             </font>
