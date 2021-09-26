@@ -1,14 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
- <!-- Headings
-Styling text
-Quoting text
-Quoting code
-External Links
-Section links
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-Ordered and Unordered Lists
-Task lists-->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content=
@@ -19,7 +10,7 @@ Task lists-->
 <body>
     <!--Header(start)-->
     <table id="header" border="0" width="100%"
-        cellpadding="0" cellspacing="0" bgcolor="#DB7093">
+        cellpadding="0" cellspacing="0" bgcolor="#FFC0CB">
         <tr>
             <td>
                 <table border="0" cellpadding="15"
@@ -44,16 +35,7 @@ Task lists-->
                         <td>
                             |
                         </td>
-                        <td>
-                            <a href="#research" style="text-decoration:none">
-                                <font face="Courier New" size="5" color=black>
-                                    Research
-                                </font>
-                            </a>
-                        </td>
-                        <td>
-                            |
-                        </td>
+                    
                         <td>
                             <a href="#experience" style="text-decoration:none">
                                 <font face="Courier New" size="5" color=black>
@@ -64,13 +46,7 @@ Task lists-->
                         <td>
                             |
                         </td>
-                        <td>
-                            <a href="#contact" style="text-decoration:none">
-                                <font face="Courier New" size="5" color=black>
-                                    Contact
-                                </font>
-                            </a>
-                        </td>
+                   
                     </tr>
                 </table>
             </td>
@@ -88,14 +64,14 @@ Task lists-->
                         <td align="center" valign="middle">
                             <h3>
                                 <font face="Times New Roman"
-                                    size="6" color="#ffffff">
-                                    Hi Geeks!
+                                    size="6" color="black">
+                                    Welcome!
                                 </font>
                             </h3>
                              <h2>
                                 <font face="Verdana" size="6"
                                     color="#4CAF50">
-                                    <!-- Freelance Programmer -->
+                                    To CSE 110
                                 </font>
                             </h2>
                         </td>
@@ -124,7 +100,7 @@ Task lists-->
                     </tr>
                     <tr>
                         <td width="40%">
-                            <img src="img.png">
+                            <img src="me.png">
                         </td>
                         <td width="60%">
                             <font face="Verdana" size="4"
@@ -147,14 +123,14 @@ using only viral sequences learned from the various dependencies of virus transm
     <!--About(end)-->
     <!--Achievement(start)-->
     <table id="experience" border="0" width="100%"
-        cellpadding="0" cellspacing="0" bgcolor="#FFC0CB">
+        cellpadding="0" cellspacing="0" bgcolor="pink">
         <tr>
             <td>
                 <table border="0" cellpadding="15"
                     cellspacing="0" width="80%" align="center">
                     <tr>
                         <td height="180" align="center" valign="middle">
-                            <font face="Verdana" size="7" color="#4CAF50">
+                            <font face="Verdana" size="7" color="black">
                                 Experience
                                 <hr color="black" width="100">
                             </font>
@@ -171,11 +147,11 @@ using only viral sequences learned from the various dependencies of virus transm
                                                 June 2021 - Present.
                                             </li>
                                             <li>
-                                              • Interfaced between the Enterprise platform (Discovery Mid servers) and the user for the new features of Mutual Authentication epic.
+                                              Interfaced between the Enterprise platform (Discovery Mid servers) and the user for the new features of Mutual Authentication epic.
                                               </li>
-<li>•. Worked with certificate management utility keytool, keystores and SSL certificates </li>
-<li>• Built a testing framework by creating scripts to run probes and automating tests in Java. </li>
-<li>• Practiced industry best practices such as: conducting code reviews and participating in distributed development.   </li>                                        </ul>
+<li>Worked with certificate management utility keytool, keystores and SSL certificates </li>
+<li>Built a testing framework by creating scripts to run probes and automating tests in Java. </li>
+<li>Practiced industry best practices such as: conducting code reviews and participating in distributed development.   </li>                                        </ul>
                                     </li>
                                     <li>
                                         <hr color="black">
@@ -193,8 +169,7 @@ cloud connected Medical Devices</li>
                                             <hr color="black">
                                             <hr color="black">
                                             <hr color="black">
-                                            <hr color="black">
-                                            <hr color="black">
+                                         
                                         </ul>
                                     </li>
                               </ul>
@@ -208,7 +183,7 @@ cloud connected Medical Devices</li>
     <!--Achievement(end)--> 
     <!--Footer2(start)-->
     <table id="footer" border="0" width="100%"
-        cellpadding="0" cellspacing="0" bgcolor="black">
+        cellpadding="0" cellspacing="0" bgcolor="white">
         <tr>
             <td>
                 <table border="0" cellpadding="15"
