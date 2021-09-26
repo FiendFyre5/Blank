@@ -6,13 +6,13 @@
  I'm a Computer Science, Mathematics and Machine learning enthusiast, working towards a _BS in Computer Science_ at UC San Diego, with an expected graduation date of June 2023.
 	 I'm currently doing my research under [Prof Niema Moshiri](https://niema.net/) to build Scalable tools for studying viral evolution. Our research is geared upon inferring properties of a real epidemic using only viral sequences learned from the various dependencies of virus transmissions and the patient's genomic sequences. In my free time, you can find me painting my heart out or **try** hiking.
 > "try"
-	  I have also been part of a Teaching and Mentoring program for middle school and budding high school kids for the past 4 years. We have been working to increase Diversity and engagement of underepresented students in STEM fields.
+I have also been part of a Teaching and Mentoring program for middle school and budding high school kids for the past 4 years. We have been working to increase Diversity and engagement of underepresented students in STEM fields.
 	 I have also worked with IIT Bombay! Click [here](./resume.pdf) to see my resume.
 ```
 print("Hello World")
 ```
  My progress on Lab 1
--[x] Part 1
+- [x] Part 1
 - [x] Part 2
 - [ ] Part 3
 
@@ -42,7 +42,7 @@ You can look at my **Occupancy Level Tracker App** [here](https://github.com/Fie
 
 To go to the top [Click Here](#about)
 
-Do you wanna go back to my about section on github? [Click Here](https://github.com/FiendFyre5/cse110Page/blob/add-gitignore/index.md#about)
+Do you wanna go back to my about section on github? [Click Here](https://github.com/FiendFyre5/Blank//line/index.md#about)
 
 A relative link to access the readme file for this assignment is [Link to the README](README.md)
 
