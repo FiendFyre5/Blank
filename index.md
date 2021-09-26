@@ -100,7 +100,7 @@
                     </tr>
                     <tr>
                         <td width="40%">
-                            <img src="me.png">
+                            <img src="me.jpeg">
                         </td>
                         <td width="60%">
                             <font face="Verdana" size="4"
