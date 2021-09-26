@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -61,7 +61,7 @@
                 <table border="0" cellpadding="15"
                     cellspacing="0" width="90%" align="center">
                     <tr>
-                        <td align="center" valign="middle">
+                       
                             <h3>
                                 <font face="Times New Roman"
                                     size="6" color="black">
@@ -74,7 +74,7 @@
                                     To CSE 110
                                 </font>
                             </h2>
-                        </td>
+                       
                     </tr>
                 </table>
             </td>
@@ -198,8 +198,8 @@ cloud connected Medical Devices</li>
                         <td width="10%">
                             <font face="arial" color="black" size="5">
                                 <a href="#header" style="text-decoration:none">
-                                    <font face="Verdana" color="#DB7093" size="6">
-                                        <b>GO UP</b>
+                                    <font face="Verdana" color="#DB7093" size="2">
+                                        <b>Go Up</b>
                                     </font>
                                 </a>
                             </font>
