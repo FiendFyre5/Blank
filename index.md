@@ -1,12 +1,13 @@
 
 ## LAVANYA VERMA
 # About
-<img src="me.jpeg" height="200" width = "300">
-	I'm a Computer Science, Mathematics and Machine learning enthusiast, working towards a _BS in Computer Science_ at UC San Diego, with an expected graduation date of June 2023.
+<img src="me.jpeg" height="500" width = "300">
+
+ I'm a Computer Science, Mathematics and Machine learning enthusiast, working towards a _BS in Computer Science_ at UC San Diego, with an expected graduation date of June 2023.
 	 I'm currently doing my research under [Prof Niema Moshiri](https://niema.net/) to build Scalable tools for studying viral evolution. Our research is geared upon inferring properties of a real epidemic using only viral sequences learned from the various dependencies of virus transmissions and the patient's genomic sequences. In my free time, you can find me painting my heart out or **try** hiking.
-				    > "try"
+> "try"
 	  I have also been part of a Teaching and Mentoring program for middle school and budding high school kids for the past 4 years. We have been working to increase Diversity and engagement of underepresented students in STEM fields.
-	 I have also worked with IIT Bombay! Click [here](./resume.pdf) to see my resume
+	 I have also worked with IIT Bombay! Click [here](./resume.pdf) to see my resume.
 ```
 print("Hello World")
 ```
@@ -31,11 +32,12 @@ print("Hello World")
      - Researched and analyzed the population and designed a customized website
      - Online platform switchover helped 28,000 people including saving the daily wages of laborers.
      
-3.  * _May 2017 - July 2017 9_ 
-     - Researched and worked on IOT: Point Care Devices i.e.
-cloud connected Medical Devices
-     - Created dynamic maps that responded to real-time user-generated data using the Google Geocoding and Maps APIs in Javascript.
-     - Key member in the improvements in design feature inputs in this project of cloud based medical devices.
+3.   **Intern at IIT Bombay**
+     * _May 2017 - July 2017 9_ 
+       - Researched and worked on IOT: Point Care Devices i.e. cloud connected Medical Devices
+       - Created dynamic maps that responded to real-time user-generated data using the Google Geocoding and Maps APIs in Javascript.
+       - Key member in the improvements in design feature inputs in this project of cloud based medical devices.
+
 You can look at my **Occupancy Level Tracker App** [here](https://github.com/FiendFyre5/Occupancy_Level_Tracker).
 
 To go to the top [Click Here](#about)
