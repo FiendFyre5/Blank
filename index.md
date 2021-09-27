@@ -48,5 +48,5 @@ Do you wanna go back to my about section on github? [Click Here](https://github.
 
 A relative link to access the readme file for this assignment is [Link to the README](README.md)
 
-*Disclaimer: This small project was built as a part of my cse 110 lab assignment :)*
+*Disclaimer: This small project was a part of my cse 110 lab 1 assignment*
 
