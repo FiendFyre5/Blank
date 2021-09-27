@@ -15,6 +15,7 @@ print("Hello World")
 - [x] Part 1
 - [x] Part 2
 - [ ] Part 3
+
 In my free time, you can find me painting my heart out or **try** hiking.
 > "try"
 # ***Research & Teaching***
@@ -39,7 +40,7 @@ In my free time, you can find me painting my heart out or **try** hiking.
        - Created dynamic maps that responded to real-time user-generated data using the Google Geocoding and Maps APIs in Javascript.
        - Key member in the improvements in design feature inputs in this project of cloud based medical devices.
 
-You can look at my **Occupancy Level Tracker App** [here](https://github.com/FiendFyre5/Occupancy_Level_Tracker).
+You can look at the discord bot I made with my friends **Mikasa** [here](https://github.com/FiendFyre5/mikasa).
 
 To go to the top [Click Here](#about)
 
